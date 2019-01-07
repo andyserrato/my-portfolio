@@ -1,0 +1,13 @@
+version: 0.1
+
+pahses:
+  build:
+    commands:
+      - echo Nothing to do stylesheet
+artifacts:
+  files:
+    - index.html
+    - AndySerratoCapoteResumeEnglish.pdf
+    - favicon.ico
+    - styles/*
+    - images/*

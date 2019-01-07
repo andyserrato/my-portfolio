@@ -6,3 +6,8 @@ it uses AWS and ReactJs
 
 Git and github
 SSH
+html
+CSS
+Bootstrap
+Font Awesome
+Google Fonts
